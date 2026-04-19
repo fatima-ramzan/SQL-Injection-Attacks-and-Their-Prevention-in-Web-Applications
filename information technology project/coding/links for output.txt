@@ -1,0 +1,4 @@
+with secure:
+http://localhost/sql_injection_project/login.html
+with vulnerabilities:
+http://localhost/sql_injection_project/login_attack.html
